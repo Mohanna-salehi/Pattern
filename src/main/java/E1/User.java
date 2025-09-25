@@ -2,12 +2,12 @@ package E1;
 
 import lombok.*;
 import lombok.Builder;
-
+//
 @Setter
 @Getter
 @ToString
-@AllArgsConstructor
-@Builder
+//@AllArgsConstructor
+//@Builder
 public class User {
     private String firstName;
     private String lastName;
